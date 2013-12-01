@@ -2,8 +2,8 @@
 
 ![Chrome + Yeoman](http://f.cl.ly/items/1Z0q2N4122253i0c3E3I/generator-devtools-theme.png)
 
-> A Yeoman generator that provides a functional boilerplate to easily create
-> Chrome DevTools Themes via Chrome Extensions.
+> A Yeoman Generator that provides a functional boilerplate to easily create
+> custom Chrome DevTools Themes via Chrome Extensions.
 >
 > More info at [Chromium Issue #318566](https://code.google.com/p/chromium/issues/detail?id=318566).
 
@@ -21,19 +21,18 @@
     $ yo devtools-theme
     ```
 
-3. Start writing your Chrome DevTools Theme.
+3. Start writing your custom Chrome DevTools Theme.
 4. Publish it on [Chrome Web Store](https://chrome.google.com/webstore/)!
 
 ## Usage
 
-**Attention:** This feature is only available in [Chrome
-Canary](https://www.google.com/intl/en/chrome/browser/canary.html) for now.
+**Attention:** The ability of using custom Chrome DevTools Themes is only
+available in [Chrome Canary](https://www.google.com/intl/en/chrome/browser/canary.html) for now.
 
 1. Enable DevTools experiments in `chrome://flags/#enable-devtools-experiments`.
 2. Open DevTools > *Settings* > *Experiments* > *Allow UI themes*.
 
-Now you are able to install/use any Chrome DevTools Theme via Chrome
-Extension.
+Now you are able to use any custom Chrome DevTools Theme via Chrome Extension.
 
 ## Structure
 

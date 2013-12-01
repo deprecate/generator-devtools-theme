@@ -1,7 +1,7 @@
 {
   "name": "generator-devtools-theme",
   "version": "0.1.0",
-  "description": "A Yeoman Generator for Chrome DevTools Theme",
+  "description": "Yeoman Generator for Chrome DevTools Theme",
   "keywords": [
     "chrome",
     "devtools",
