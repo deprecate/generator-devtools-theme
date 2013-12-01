@@ -1,15 +1,18 @@
 {
   "name": "generator-devtools-theme",
-  "version": "0.0.0",
-  "description": "A generator for Yeoman",
+  "version": "0.1.0",
+  "description": "A Yeoman Generator for Chrome DevTools Theme",
   "keywords": [
+    "chrome",
+    "devtools",
+    "theme",
     "yeoman-generator"
   ],
   "homepage": "https://github.com/zenorocha/generator-devtools-theme",
   "bugs": "https://github.com/zenorocha/generator-devtools-theme/issues",
   "author": {
     "name": "Zeno Rocha",
-    "email": "zeno.rocha@liferay.com",
+    "email": "hi@zenorocha.com",
     "url": "https://github.com/zenorocha"
   },
   "main": "app/index.js",

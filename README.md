@@ -1,47 +1,39 @@
-# generator-devtools-theme [![Build Status](https://secure.travis-ci.org/zenorocha/generator-devtools-theme.png?branch=master)](https://travis-ci.org/zenorocha/generator-devtools-theme)
+# Yeoman Generator for Chrome DevTools Theme [![Build Status](https://secure.travis-ci.org/zenorocha/generator-devtools-theme.png?branch=master)](https://travis-ci.org/zenorocha/generator-devtools-theme)
 
-A generator for [Yeoman](http://yeoman.io).
+![Chrome + Yeoman](http://f.cl.ly/items/1Z0q2N4122253i0c3E3I/generator-devtools-theme.png)
 
+> *TODO - Write description*
 
-## Getting Started
+## Getting started
 
-### What is Yeoman?
+1. Install using NPM:
 
-Trick question. It's not a thing. It's this guy:
+    ```sh
+    $ [sudo] npm install -g generator-devtools-theme
+    ```
 
-![](http://i.imgur.com/JHaAlBJ.png)
+2. Scaffold your new project:
 
-Basically, he wears a top hat, lives in your computer, and waits for you to tell him what kind of application you wish to create.
+    ```sh
+    $ yo generator-devtools-theme
+    ```
 
-Not every new computer comes with a Yeoman pre-installed. He lives in the [npm](https://npmjs.org) package repository. You only have to ask for him once, then he packs up and moves into your hard drive. *Make sure you clean up, he likes new and shiny things.*
+3. Start writing your Chrome DevTools Theme!
 
-```
-$ npm install -g yo
-```
+## Structure
 
-### Yeoman Generators
+*TODO - Write instructions*
 
-Yeoman travels light. He didn't pack any generators when he moved in. You can think of a generator like a plug-in. You get to choose what type of application you wish to create, such as a Backbone application or even a Chrome extension.
+## Publish
 
-To install generator-devtools-theme from npm, run:
+Enable DevTools experiments in `about:flags`, toggle "Allow UI themes" experiment.
 
-```
-$ npm install -g generator-devtools-theme
-```
+*TODO - Write instructions*
 
-Finally, initiate the generator:
+## History
 
-```
-$ yo devtools-theme
-```
-
-### Getting To Know Yeoman
-
-Yeoman has a heart of gold. He's a person with feelings and opinions, but he's very easy to work with. If you think he's too opinionated, he can be easily convinced.
-
-If you'd like to get to know Yeoman better and meet some of his friends, [Grunt](http://gruntjs.com) and [Bower](http://bower.io), check out the complete [Getting Started Guide](https://github.com/yeoman/yeoman/wiki/Getting-Started).
-
+For detailed changelog, see [Releases](https://github.com/zenorocha/generator-devtools-theme/releases).
 
 ## License
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License)
+[MIT License](http://zenorocha.mit-license.org/) © Zeno Rocha
