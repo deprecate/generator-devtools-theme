@@ -37,4 +37,5 @@ DevtoolsThemeGenerator.prototype.projectfiles = function projectfiles() {
   this.copy('devtools.html', 'devtools.html');
   this.copy('devtools.js', 'devtools.js');
   this.copy('editorconfig', '.editorconfig');
+  this.copy('styles.css', 'styles.css');
 };
