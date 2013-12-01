@@ -1,0 +1,41 @@
+{
+  "name": "generator-devtools-theme",
+  "version": "0.0.0",
+  "description": "A generator for Yeoman",
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "homepage": "https://github.com/zenorocha/generator-devtools-theme",
+  "bugs": "https://github.com/zenorocha/generator-devtools-theme/issues",
+  "author": {
+    "name": "Zeno Rocha",
+    "email": "zeno.rocha@liferay.com",
+    "url": "https://github.com/zenorocha"
+  },
+  "main": "app/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zenorocha/generator-devtools-theme.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "yeoman-generator": "~0.14.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0"
+  },
+  "peerDependencies": {
+    "yo": ">=1.0.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
