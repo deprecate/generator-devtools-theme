@@ -1,6 +1,6 @@
 # Yeoman Generator for Chrome DevTools Theme [![Build Status](https://secure.travis-ci.org/zenorocha/generator-devtools-theme.png?branch=master)](https://travis-ci.org/zenorocha/generator-devtools-theme)
 
-![Chrome + Yeoman](http://f.cl.ly/items/1Z0q2N4122253i0c3E3I/generator-devtools-theme.png)
+![Chrome + Yeoman](https://cloud.githubusercontent.com/assets/398893/3528084/997c7862-078b-11e4-9625-abb02d039f83.png)
 
 > A Yeoman Generator that provides a functional boilerplate to easily create
 > custom Chrome DevTools Themes via Chrome Extensions.
