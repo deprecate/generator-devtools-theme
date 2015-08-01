@@ -1,4 +1,4 @@
-# Yeoman Generator for Chrome DevTools Theme [![Build Status](https://secure.travis-ci.org/zenorocha/generator-devtools-theme.png?branch=master)](https://travis-ci.org/zenorocha/generator-devtools-theme)
+# Yeoman Generator for Chrome DevTools Theme [![Build Status](https://secure.travis-ci.org/deprecate/generator-devtools-theme.png?branch=master)](https://travis-ci.org/deprecate/generator-devtools-theme)
 
 ![Chrome + Yeoman](https://cloud.githubusercontent.com/assets/398893/3528084/997c7862-078b-11e4-9625-abb02d039f83.png)
 
@@ -48,7 +48,7 @@ The basic structure of the project is given in the following way.
 
 ## History
 
-For detailed changelog, see [Releases](https://github.com/zenorocha/generator-devtools-theme/releases).
+For detailed changelog, see [Releases](https://github.com/deprecate/generator-devtools-theme/releases).
 
 ## License
 
